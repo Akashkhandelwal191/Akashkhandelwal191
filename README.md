@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/akash-khandelwal-5b09531aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akash-khandelwal-5b09531aa" height="30" width="40" /></a>
 <a href="https://fb.com/akash.khandelwal.1042" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash.khandelwal.1042" height="30" width="40" /></a>
 <a href="https://instagram.com/skykhandelwal1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="skykhandelwal1999" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akash khandelwal - altruistic education" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="akash khandelwal - altruistic education" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCW6rW8esjHbIMTccfbiJdPw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="akash khandelwal - altruistic education" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
