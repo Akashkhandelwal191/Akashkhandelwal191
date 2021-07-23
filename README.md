@@ -40,6 +40,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkhandelwal191&" alt="akashkhandelwal191" /></p>
 
-
+<a href="https://github.com/Akashkhandelwal191/github-readme-activity-graph"><img alt="Akash Khandelwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akashkhandelwal191&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
