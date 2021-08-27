@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47pn19j8s4lhsyvlb3s4qbzvs3e80kwflc5l5y6cgn&rid=giphy.gif&ct=g" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="175px"/></a>
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash Khandelwal</h1>
 <h3 align="center">Software Developer| Programming Enthusiastic</h3>
 
